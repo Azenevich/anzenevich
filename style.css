@@ -75,6 +75,7 @@ footer{margin-top:2rem;text-align:center;color:var(--muted);font-size:0.9rem}
   #mainRight{padding-top:1rem}
 }
 
+/* ===== UX improvements ===== */
 section{
   margin-bottom:1.5rem;
 }
@@ -103,4 +104,15 @@ h2{
     gap:1rem;
   }
 
+}
+
+/* ===== Links ===== */
+
+a{
+  color:#2563eb;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
 }
