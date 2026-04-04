@@ -93,6 +93,6 @@ footer{margin-top:2rem;text-align:center;color:var(--muted);font-size:0.9rem}
 }
 
 #topBtn:hover {
-  background-color: #1c8b85;
+  background-color: #909191;
   transform: scale(1.1);
 }
